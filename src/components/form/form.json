@@ -1,0 +1,44 @@
+{
+  "collectionName": "components_form_forms",
+  "info": {
+    "displayName": "Form",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "Field": {
+      "displayName": "Field",
+      "type": "component",
+      "repeatable": true,
+      "component": "field.field"
+    },
+    "Button": {
+      "type": "component",
+      "repeatable": false,
+      "component": "button1.button1"
+    },
+    "FormTitle": {
+      "type": "string"
+    },
+    "FormDescription": {
+      "type": "richtext"
+    },
+    "FormImage": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "MultiItems": {
+      "displayName": "Check",
+      "type": "component",
+      "repeatable": true,
+      "component": "check.check"
+    }
+  }
+}

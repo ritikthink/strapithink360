@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_footer_footers",
+  "info": {
+    "displayName": "Footer",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "topfooter": {
+      "displayName": "Top",
+      "type": "component",
+      "repeatable": false,
+      "component": "top-footer.top"
+    },
+    "bottomfooter": {
+      "displayName": "bottomfooter",
+      "type": "component",
+      "repeatable": false,
+      "component": "bottomfooter.bottomfooter"
+    }
+  }
+}

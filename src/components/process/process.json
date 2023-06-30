@@ -1,0 +1,29 @@
+{
+  "collectionName": "components_process_processes",
+  "info": {
+    "displayName": "Process",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "StepTitle": {
+      "type": "string"
+    },
+    "Title": {
+      "type": "string"
+    },
+    "ContentTitle": {
+      "type": "string"
+    },
+    "Description": {
+      "type": "richtext"
+    },
+    "ListContent": {
+      "type": "richtext"
+    },
+    "Icon": {
+      "type": "customField",
+      "customField": "plugin::react-icons.icon"
+    }
+  }
+}

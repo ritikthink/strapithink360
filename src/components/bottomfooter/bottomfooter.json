@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_bottomfooter_bottomfooters",
+  "info": {
+    "displayName": "bottomfooter"
+  },
+  "options": {},
+  "attributes": {
+    "Copyright": {
+      "type": "string"
+    },
+    "menu": {
+      "type": "component",
+      "repeatable": true,
+      "component": "menu-item.menu-item"
+    }
+  }
+}

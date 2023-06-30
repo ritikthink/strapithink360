@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_question_answers_question_answers",
+  "info": {
+    "displayName": "QuestionAnswers"
+  },
+  "options": {},
+  "attributes": {
+    "Question": {
+      "type": "richtext"
+    },
+    "Answer": {
+      "type": "richtext"
+    }
+  }
+}

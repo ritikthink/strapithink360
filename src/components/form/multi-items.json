@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_form_multi_items",
+  "info": {
+    "displayName": "MultiItems",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "Item": {
+      "type": "string"
+    }
+  }
+}

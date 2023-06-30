@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_footer_about_footer_abouts",
+  "info": {
+    "displayName": "FooterAbout",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "Title": {
+      "type": "string"
+    },
+    "Description": {
+      "type": "richtext"
+    },
+    "SocialIcons": {
+      "type": "component",
+      "repeatable": true,
+      "component": "social-icon.social-icon"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_quick_links_quick_link_headers",
+  "info": {
+    "displayName": "QuickLinkHeader"
+  },
+  "options": {},
+  "attributes": {
+    "QuickLinks": {
+      "type": "component",
+      "repeatable": true,
+      "component": "quick-links.quick-links"
+    },
+    "Heading": {
+      "type": "string"
+    }
+  }
+}

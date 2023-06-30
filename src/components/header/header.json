@@ -1,0 +1,38 @@
+{
+  "collectionName": "components_header_headers",
+  "info": {
+    "displayName": "Header",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "Logo": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "SocialIcon": {
+      "displayName": "SocialIcon",
+      "type": "component",
+      "repeatable": true,
+      "component": "social-icon.social-icon"
+    },
+    "MenuItem": {
+      "type": "component",
+      "repeatable": true,
+      "component": "menu-item.menu-item"
+    },
+    "Theme": {
+      "displayName": "Theme",
+      "type": "component",
+      "repeatable": true,
+      "component": "theme.theme"
+    }
+  }
+}

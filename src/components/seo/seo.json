@@ -1,0 +1,38 @@
+{
+  "collectionName": "components_seo_seos",
+  "info": {
+    "displayName": "SEO",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "MetaTitle": {
+      "type": "string",
+      "unique": false
+    },
+    "MetaDescription": {
+      "type": "string"
+    },
+    "MetaKeywords": {
+      "type": "string"
+    },
+    "MetaAuthor": {
+      "type": "string"
+    },
+    "MetaURL": {
+      "type": "string"
+    },
+    "MetaImage": {
+      "type": "string"
+    },
+    "MetaScript": {
+      "type": "richtext"
+    },
+    "NoIndex": {
+      "type": "boolean"
+    },
+    "NoFollow": {
+      "type": "boolean"
+    }
+  }
+}

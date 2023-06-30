@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_saas_projects_saas_projects",
+  "info": {
+    "displayName": "SaasProjects",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "Header": {
+      "type": "component",
+      "repeatable": false,
+      "component": "section-header.section-header"
+    },
+    "ProjectList": {
+      "type": "component",
+      "repeatable": true,
+      "component": "projects.project"
+    },
+    "Button": {
+      "type": "component",
+      "repeatable": false,
+      "component": "button1.button1"
+    }
+  }
+}

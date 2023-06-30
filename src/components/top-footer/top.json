@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_top_footer_tops",
+  "info": {
+    "displayName": "TopFooter",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "Title": {
+      "type": "string"
+    },
+    "Description": {
+      "type": "richtext"
+    },
+    "EmailUrl": {
+      "type": "string"
+    }
+  }
+}

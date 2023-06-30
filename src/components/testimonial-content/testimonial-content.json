@@ -1,0 +1,53 @@
+{
+  "collectionName": "components_testimonial_content_testimonial_contents",
+  "info": {
+    "displayName": "TestimonialContent",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "Title": {
+      "type": "string"
+    },
+    "Ratings": {
+      "type": "string"
+    },
+    "Date": {
+      "type": "string"
+    },
+    "AuthorName": {
+      "type": "string"
+    },
+    "AuthorDesignation": {
+      "type": "string"
+    },
+    "Icon": {
+      "type": "customField",
+      "customField": "plugin::react-icons.icon"
+    },
+    "Image": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "Description": {
+      "type": "richtext"
+    },
+    "profileImage": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_service_section_service_sections",
+  "info": {
+    "displayName": "ServiceItems",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "Header": {
+      "type": "component",
+      "repeatable": false,
+      "component": "section-header.section-header"
+    },
+    "ServicesList": {
+      "type": "component",
+      "repeatable": true,
+      "component": "services.services"
+    },
+    "Button": {
+      "type": "component",
+      "repeatable": false,
+      "component": "button1.button1"
+    }
+  }
+}

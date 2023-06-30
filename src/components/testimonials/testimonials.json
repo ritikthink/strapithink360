@@ -1,0 +1,26 @@
+{
+  "collectionName": "components_testimonials_testimonials",
+  "info": {
+    "displayName": "Testimonials",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "Header": {
+      "type": "component",
+      "repeatable": false,
+      "component": "section-header.section-header"
+    },
+    "TestimonialContent": {
+      "displayName": "TestimonialContent",
+      "type": "component",
+      "repeatable": true,
+      "component": "testimonial-content.testimonial-content"
+    },
+    "Button": {
+      "type": "component",
+      "repeatable": false,
+      "component": "button1.button1"
+    }
+  }
+}

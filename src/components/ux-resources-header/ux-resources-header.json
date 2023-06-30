@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_ux_resources_header_ux_resources_headers",
+  "info": {
+    "displayName": "UxResourcesHeader"
+  },
+  "options": {},
+  "attributes": {
+    "UxResources": {
+      "type": "component",
+      "repeatable": true,
+      "component": "ux-resources.ux-resources"
+    },
+    "Heading": {
+      "type": "string"
+    }
+  }
+}

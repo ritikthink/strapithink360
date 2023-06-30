@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_faq_faqs",
+  "info": {
+    "displayName": "FAQs",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "Heading": {
+      "type": "string"
+    },
+    "QuestionAnswers": {
+      "displayName": "QuestionAnswers",
+      "type": "component",
+      "repeatable": true,
+      "component": "question-answers.question-answers"
+    }
+  }
+}

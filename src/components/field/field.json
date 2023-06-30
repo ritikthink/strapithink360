@@ -1,0 +1,33 @@
+{
+  "collectionName": "components_field_fields",
+  "info": {
+    "displayName": "Field",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "Label": {
+      "type": "string"
+    },
+    "Placeholder": {
+      "type": "string"
+    },
+    "Type": {
+      "type": "enumeration",
+      "enum": [
+        "text",
+        "email",
+        "password",
+        "textarea"
+      ],
+      "required": false,
+      "default": "text"
+    },
+    "Required": {
+      "type": "boolean"
+    },
+    "Name": {
+      "type": "string"
+    }
+  }
+}

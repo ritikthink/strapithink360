@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_social_icon_social_icons",
+  "info": {
+    "displayName": "SocialIcon"
+  },
+  "options": {},
+  "attributes": {
+    "Icon": {
+      "type": "customField",
+      "customField": "plugin::react-icons.icon"
+    },
+    "Link": {
+      "type": "string"
+    }
+  }
+}

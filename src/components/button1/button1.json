@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_button1_button1s",
+  "info": {
+    "displayName": "Button1"
+  },
+  "options": {},
+  "attributes": {
+    "Title": {
+      "type": "string"
+    },
+    "URL": {
+      "type": "string"
+    }
+  }
+}

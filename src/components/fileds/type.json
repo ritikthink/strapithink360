@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_fileds_types",
+  "info": {
+    "displayName": "Type"
+  },
+  "options": {},
+  "attributes": {
+    "Label": {
+      "type": "string"
+    },
+    "Type": {
+      "type": "string"
+    }
+  }
+}

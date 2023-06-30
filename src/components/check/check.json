@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_check_checks",
+  "info": {
+    "displayName": "Check",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "MultiItem": {
+      "type": "component",
+      "repeatable": true,
+      "component": "form.multi-items"
+    },
+    "Label": {
+      "type": "string"
+    },
+    "Type": {
+      "type": "enumeration",
+      "enum": [
+        "Radio",
+        "Checkbox"
+      ]
+    }
+  }
+}

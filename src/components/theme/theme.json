@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_theme_themes",
+  "info": {
+    "displayName": "Theme",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "Icon": {
+      "type": "customField",
+      "customField": "plugin::react-icons.icon"
+    },
+    "Mode": {
+      "type": "string"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "collectionName": "components_services_services",
+  "info": {
+    "displayName": "Services",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "Title": {
+      "type": "string"
+    },
+    "Description": {
+      "type": "richtext"
+    },
+    "URL": {
+      "type": "string"
+    },
+    "serviceIcons": {
+      "type": "customField",
+      "customField": "plugin::react-icons.icon"
+    }
+  }
+}

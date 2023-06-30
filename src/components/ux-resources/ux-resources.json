@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_ux_resources_ux_resources",
+  "info": {
+    "displayName": "UX Resources"
+  },
+  "options": {},
+  "attributes": {
+    "UXResourceTag": {
+      "type": "string"
+    },
+    "UXResourcesUrl": {
+      "type": "string"
+    }
+  }
+}

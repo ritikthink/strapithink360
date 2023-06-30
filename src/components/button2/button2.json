@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_button2_button2s",
+  "info": {
+    "displayName": "Button2"
+  },
+  "options": {},
+  "attributes": {
+    "Title": {
+      "type": "string"
+    },
+    "Link": {
+      "type": "string"
+    }
+  }
+}

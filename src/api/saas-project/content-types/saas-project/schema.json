@@ -1,0 +1,48 @@
+{
+  "kind": "collectionType",
+  "collectionName": "saas_projects",
+  "info": {
+    "singularName": "saas-project",
+    "pluralName": "saas-projects",
+    "displayName": "SaasProject",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "ProjectTitle": {
+      "type": "string"
+    },
+    "ShortDescription": {
+      "type": "string"
+    },
+    "ProjectThumbnail": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "Description": {
+      "type": "richtext"
+    },
+    "PostURL": {
+      "type": "uid",
+      "targetField": "ProjectTitle"
+    },
+    "ProjectThumbnailVideo": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "videos"
+      ]
+    }
+  }
+}

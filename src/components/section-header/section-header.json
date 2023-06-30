@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_section_header_section_headers",
+  "info": {
+    "displayName": "SectionHeader",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "Title": {
+      "type": "string"
+    },
+    "Description": {
+      "type": "richtext"
+    }
+  }
+}
